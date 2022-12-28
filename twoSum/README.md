@@ -13,7 +13,7 @@ Saída: [0,1]
 Explicação: nums[0] + nums[1] == 9, então retornamos estes índices [0, 1].
 ```
 
-## Resolução 'Brute Fore'
+## Resolução 'Brute Force'
 Numa resolução trivial, percorreríamos o vetor 'nums' comparando elementos par a par e checando quando a soma deles resultasse no número alvo (target).
 
 [Resolução Brute Force](https://github.com/GusSampaio/LeetCode_InterviewQuestions/blob/main/twoSum/solucao1.cpp)
