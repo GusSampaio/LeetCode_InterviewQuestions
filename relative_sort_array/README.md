@@ -14,8 +14,6 @@ Exemplo 2:
 > 
 > Output: [22,28,8,6,17,44]
 
-Claro! Aqui está a continuação:
-
 ---
 
 ## Solução considerando somente o tempo
