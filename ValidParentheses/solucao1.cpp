@@ -14,7 +14,7 @@ public:
                     return false;
                 }
                 aux.pop_back();
-            }
+            } 
         }
         return aux.empty();
     }
